@@ -1,4 +1,3 @@
-
 ## Quick Installation
     git clone git@github.com:SamuelGerges/baims-attendance-system.git
     cd SD_Project/
